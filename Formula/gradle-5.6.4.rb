@@ -1,4 +1,4 @@
-class Gradle < Formula
+class Gradle564 < Formula
   desc "Open-source build automation tool based on the Groovy and Kotlin DSL"
   homepage "https://www.gradle.org/"
   url "https://services.gradle.org/distributions/gradle-5.6.4-all.zip"
